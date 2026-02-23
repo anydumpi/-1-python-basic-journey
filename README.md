@@ -12,16 +12,16 @@ Focus: Python Programming Fundamentals
 ---
 
 ## Repository Structure
-
+```
 python-basic-journey/
-`│
+
 ├── week1/              # Basic syntax, variables, if-else
 ├── week2/              # Loops, list, dictionary
 ├── week3/              # Functions & error handling
 ├── week4/              # OOP & file handling
 ├── mini-project-1/
 ├── mini-project-2/
-`
+```
 
 ---
 
