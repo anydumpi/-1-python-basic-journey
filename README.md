@@ -1,4 +1,4 @@
-﻿# 🚀 My Journey to Data & AI
+﻿# My Journey to Data & AI
 
 Hi!
 This repository documents my learning journey from basic Python to Data Analysis and Machine Learning.
