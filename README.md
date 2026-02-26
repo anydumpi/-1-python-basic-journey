@@ -1,9 +1,9 @@
 ﻿# 🚀 My Journey to Data & AI
 
-Hi! 👋  
+Hi!
 This repository documents my learning journey from basic Python to Data Analysis and Machine Learning.
 
-## 🎯 Career Goal
+## Career Goal
 Within the next few years, I aim to work in a role involving:
 - Coding
 - Data processing
@@ -15,7 +15,7 @@ Now I am building strong foundations in Python and Data Science to transition in
 
 ---
 
-# 📅 Learning Roadmap
+# Learning Roadmap
 
 ## Phase 1 — Python Fundamentals
 Topics:
@@ -77,12 +77,12 @@ Build end-to-end data projects including:
 
 ---
 
-# 📌 Current Focus
+# Current Focus
 Strengthening Python fundamentals and practicing daily coding (1 hour per day).
 
 ---
 
-# 📈 Progress Tracking
+# Progress Tracking
 ```
 | Month | Focus | Status |
 |-------|--------|--------|
@@ -95,7 +95,7 @@ Strengthening Python fundamentals and practicing daily coding (1 hour per day).
 ```
 ---
 
-# 🌱 Why This Repository?
+# Why This Repository?
 
 Consistency > Motivation.
 
@@ -106,5 +106,4 @@ This repository is proof of:
 
 ---
 
-Thank you for visiting my journey 🚀
-...
+Thank you for visiting my journey
