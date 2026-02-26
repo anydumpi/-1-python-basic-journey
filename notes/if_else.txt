@@ -5,6 +5,12 @@ else: # dianggap 0
 Kalau kondisi = True → blok if jalan
 Kalau kondisi = False → blok else jalan
 
+= untuk vairabel
+== untuk membandingkan dengan variabel
+
+.strip() → hapus spasi di depan/belakang
+.lower() → ubah jadi huruf kecil semua
+
 #1 Cek bilangan ganjil atau genap
 angka = int (input ("Masukkan angka yang kamu suka: "))
 if angka % 2 == 0: kategori = "bilangan genap."
@@ -26,3 +32,15 @@ if nilai >= 90: print ("A")
 elif nilai >= 80: print ("B")
 elif nilai >= 70: print ("C")
 else: print ("D")
+
+#4 Kalkulator Sederhana
+angka1 = int(input ("Angka pertama: "))
+operator = input ("Masukkan operator:")
+angka2 = int(input ("Angka kedua: "))
+if operator == "+" :
+    hasil = angka1 + angka2
+elif operator == "-" : hasil = angka1 - angka2
+elif operator == "*" : hasil = angka1 * angka2
+elif operator == "/" : hasil = angka1 / angka2
+else: hasil = "Operator tidak dikenali"
+print ("Hasil:", hasil)

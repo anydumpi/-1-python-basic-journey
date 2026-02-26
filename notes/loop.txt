@@ -1,0 +1,38 @@
+Loop = perulangan.
+
+print("Halo")
+print("Halo")
+print("Halo")
+
+bisa diganti dengan Loop
+
+for variabel in range(angka):
+    aksi
+atau
+for i in range(5):
+    print("Halo")
+
+
+# Hasil
+Halo
+Halo
+Halo
+Halo
+Halo
+
+Kenapa 5 kali?
+Karena range(5) artinya 0 sampai 4 (total 5 angka).
+
+# Range
+range(1, 6) hasilnya 0, 1, 2, 3, 4
+range(1, 6) hasilnya 1, 2, 3, 4, 5
+Contoh:
+for i in range(1, 6):
+    print("Angka ke-", i)
+Output:
+Angka ke- 1
+Angka ke- 2
+Angka ke- 3
+Angka ke- 4
+Angka ke- 5
+i itu variabel yang berubah tiap putaran.
