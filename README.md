@@ -69,7 +69,7 @@ Build end-to-end data projects including:
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 - Python
 - Jupyter Notebook / Google Colab
 - VS Code
