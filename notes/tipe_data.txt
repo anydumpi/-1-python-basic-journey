@@ -1,0 +1,13 @@
+| Operasi      | Hasil   |
+| ------------ | ------- |
+| `"20" + "5"` | `"205"` |
+| `20 + 5`     | `25`    |
+| `"20" + 5`   | ❌ Error |
+
+# Operator
+== sama dengan >> untuk perbandingan
+!= tidak sama dengan
+> lebih besar
+< lebih kecil
+>= lebih besar sama dengan
+<= lebih kecil sama dengan

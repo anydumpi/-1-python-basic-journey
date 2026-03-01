@@ -36,3 +36,36 @@ Angka ke- 3
 Angka ke- 4
 Angka ke- 5
 i itu variabel yang berubah tiap putaran.
+
+# Penambahan setiap Loop
+total = total + nilai
+Contoh:
+Input:  3
+        10
+        20
+        30
+Output:
+Loop jalan 3 kali:
+Putaran 1 → total = 0 + 10 = 10
+Putaran 2 → total = 10 + 20 = 30
+Putaran 3 → total = 30 + 30 = 60
+
+# Penjelasan Challenge 5
+range 3= 3 kali, yaitu 0 1 2
+di bawahnya masukkan password karena ini yang dilakukan 3 kali
+pake break biar kalau udah bener di 1 & 2 kali percobaan gaperlu nyelesein loopnya (sampai 3 kali)
+break setelah if
+else 1 >> jika salah password
+else 2 >> jika udah mencapai batas maksimal (satu loop)
+
+# Penjelasan Challenge 6
+Kalau for → kita tahu berapa kali mau ulang.
+Kalau while → ulang terus selama kondisi masih True.
+while kondisi:
+    aksi
+
+break → keluar total dari loop
+continue → lompat ke iterasi berikutnya
+
+#Penjelasan Challenge 7
+inputan selalu di bawah while agar masuk ke loop
